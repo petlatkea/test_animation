@@ -1,0 +1,19 @@
+#scenen {
+    border: 2px solid black;
+    padding: 2px;
+    height: 60vw;
+    position: relative;
+}
+
+#knapper {
+    margin-top: 1em;
+    min-height: 1em;
+    background-color: lightgray;
+}
+
+#debug {
+    margin-top: 1em;
+    min-height: 1em;
+    border: 2px dashed red;
+    background-color: #ffd1d1;
+}
