@@ -1,3 +1,8 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 #scenen {
     border: 2px solid black;
     padding: 2px;
@@ -16,4 +21,9 @@
     min-height: 1em;
     border: 2px dashed red;
     background-color: #ffd1d1;
+}
+
+footer {
+    background: black;
+    color: aliceblue;
 }
